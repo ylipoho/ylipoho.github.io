@@ -1,4 +1,3 @@
-## Welcome to my portfolio
 
 My name is Elizaveta Baranovskaya. You can find out some facts about me on this page.
 
