@@ -12,6 +12,10 @@ Now i'm student of BSUIR, Faculty of Computer Systems and Networks, Software for
 
 [Github account](https://github.com/ylipoho)
 
+### Codewars
+
+[Codewars account](https://www.codewars.com/users/ylipoho)
+
 ### Padawans 
 
  - [FancyCalc](https://github.com/ylipoho/FancyCalc)
