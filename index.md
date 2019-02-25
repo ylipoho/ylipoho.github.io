@@ -29,7 +29,7 @@ Now i'm student of BSUIR, Faculty of Computer Systems and Networks, Software for
  - [Task8](https://github.com/ylipoho/PadawansTask8)  *in progress*
  - [Task9](https://github.com/ylipoho/PadawansTask9)
  - [Task10](https://github.com/ylipoho/PadawansTask10) 
- - [Task11](https://github.com/ylipoho/PadawansTask11) *in progress*
+ - [Task11](https://github.com/ylipoho/PadawansTask11)
  - [Task12](https://github.com/ylipoho/PadawansTask12) 
  - [Task13](https://github.com/ylipoho/PadawansTask13) 
  - [Task15](https://github.com/ylipoho/PadawansTask15) *in progress*
