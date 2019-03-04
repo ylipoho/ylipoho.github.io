@@ -33,5 +33,7 @@ Now i'm student of BSUIR, Faculty of Computer Systems and Networks, Software for
  - [Task12](https://github.com/ylipoho/PadawansTask12) 
  - [Task13](https://github.com/ylipoho/PadawansTask13) 
  - [Task15](https://github.com/ylipoho/PadawansTask15)
+ 
 ### Other Tasks
- CodeWars, Basic C# coding, task 8 [HexStringToRgb](https://github.com/ylipoho/HexStringToRgb)
+  Codewars, Basic C# coding: 
+  - [Task 8.HexStringToRgb](https://github.com/ylipoho/HexStringToRgb)
