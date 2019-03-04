@@ -37,3 +37,4 @@ Now i'm student of BSUIR, Faculty of Computer Systems and Networks, Software for
 ### Other Tasks
   Codewars, Basic C# coding: 
   - [Task 8.HexStringToRgb](https://github.com/ylipoho/HexStringToRgb)
+  - [Task 13.ManipulateURLParameters](https://github.com/ylipoho/ManipulateUrlParameters)
